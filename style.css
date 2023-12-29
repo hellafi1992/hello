@@ -8,6 +8,7 @@ body{
     margin: 0;
     padding: 0;
     background: url(sky.avif);
+    background-repeat: no-repeat;
     background-size: 1080px 480px;
     background-position: top;
 }
